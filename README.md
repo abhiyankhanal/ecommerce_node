@@ -153,4 +153,4 @@ Now you can run "npm start" in the terminal and the application should work.
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - MIT License
-- Copyright 2020 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
+- Copyright 2021 © [Gautam Phhuyal](https://github.com/gautam197)
